@@ -5,6 +5,18 @@
   text-align: center;
 }
 
+// ユーザー勤怠情報テーブル
+#table-attendances{
+  th{
+    vertical-align: center;
+    text-align: center;
+  }
+  td{
+    vertical-align: middle;
+    text-align: center;
+  }
+}
+
 .label-signup{
   magrin-top:5px
 }
